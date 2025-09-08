@@ -60,7 +60,7 @@ Diseñar una base de datos de acuerdo al Modelo Entidad Relación (Modelo E-R).
 
 **Informe PDF:** [Descargar/Ver informe](DB01_Grupo6_ET0057/tarea-02/2025-2-tia-02-informe-equipo06.pdf)
 
-**Enlace al video de sustentación:** _(Colocar aquí el enlace a Youtube o Google Drive)_
+**Enlace al video de sustentación:** [Ver video en Youtube](https://youtu.be/fCxbYT39oMQ)
 
 ---
 
