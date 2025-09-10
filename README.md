@@ -58,9 +58,9 @@ Diseñar una base de datos de acuerdo al Modelo Entidad Relación (Modelo E-R).
 13. Elaborar conclusiones individuales
 14. Elaborar un video de sustentación. **NOTA:** No debe cargar en el repositorio el video, solamente el enlace al video.
 
-**Informe PDF:** [Descargar/Ver informe](DB01_Grupo6_ET0057/tarea-02/2025-2-tia-02-informe-equipo06.pdf)
+**Informe PDF:** [Descargar/Ver informe](tarea-02/2025-2-tia-02-informe-equipo06.pdf)
 
-**Enlace al video de sustentación:** [Ver video en Youtube](https://youtu.be/fCxbYT39oMQ)
+**Enlace al video de sustentación:** [Ver video en Youtube](https://youtu.be/D4hY0-AODcY)
 
 ---
 
