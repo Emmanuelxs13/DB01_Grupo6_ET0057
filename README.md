@@ -8,7 +8,7 @@
 - Samuel Herrera Rojas
 - Emmanuel Berrio Jimenez _(Líder)_
 
-## **Repositorio gestionado por el Grupo 06 | Base de Datos 1 | Grupo 811 | ET0057**
+## **Repositorio gestionado por el Grupo 01 | Base de Datos 1 | Grupo 811 | ET0057**
 
 ## Estructura del Repositorio
 
