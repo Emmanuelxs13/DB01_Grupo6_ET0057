@@ -1,6 +1,6 @@
 # Base de Datos 1 | Grupo 811 | ET0057
 
-**Grupo 06**
+**Grupo 01**
 
 **Integrantes:**
 
